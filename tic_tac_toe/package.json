@@ -1,0 +1,17 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe, lesson 1",
+  "main": "tic_tac_toe.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "Dmitry Pronin (slidernode@yandex.ru)",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
+}
